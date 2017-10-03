@@ -1,0 +1,157 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: 'monda',sans-serif,helvetica;
+	background-color: #ffffff;
+
+}
+.container{
+	margin:auto;
+	overflow:visible;
+	width:80%;
+}
+
+	
+h2{
+	line-height: 2.5;
+height:50px;
+}
+
+ header{
+ 	background-color: #cc4949;
+ 	text-align: center;
+ 	color: #ffffff;
+ 	min-height: 90px;
+ 	line-height:2.5;
+ 	margin-bottom: 0px;
+ 	box-shadow: 2px 2px 4px 2px grey;
+ 	}
+ 	nav{ 
+ 	    min-height: 50px;
+ 		background-color: #ffffff;
+ 		line-height:3;
+ 		box-shadow: 2px 2px 4px 3px grey;
+ 		margin-top: 0;
+ 	}
+ 	nav li
+ 	{ margin-left:100px;
+ 		
+ 		display:inline;
+ 		color:black;
+ 	}
+ 	nav ul
+ 	{
+ 		margin-top:4px;
+ 		margin-bottom: 40px;
+ 	}
+    #updates /*for udpates card*/
+ 	{
+ 		background-color: #ff5e6a;
+ 		min-height:500px;
+ 		color:#ffffff;
+ 		text-align: center;
+ 		margin-bottom: 80px;
+ 	}
+ 	
+
+ 	
+ 	#notice/*for notice card inside updates*/
+ 	{
+ 		background-color: white;
+ 		margin-left:200px;
+ 		
+ 		width:30%;
+ 		float:left;
+ 		box-shadow: 2px 2px 2px 2px #191718;
+ 		height: 350px;
+ 	}
+ 	#whatsnew/*for whats new card inside updates*/
+ 	{
+ 		background-color: white;
+ 		margin-right: 200px;
+ 		width:30%;
+ 		float:right;
+ 		box-shadow: 2px 2px 2px 2px #191718;
+ 		height:350px;
+ 	}
+ 	
+ 	.card1 h3 /*for notices heading*/
+ 	{ margin:0;
+ 		text-align: center;
+ 		
+ 	
+ 		color:#ffffff;
+ 		background-color: #4b91f6;
+ 		line-height: 3;
+ 		width: 100%;
+ 	
+ 		box-shadow: 1px 1px 2px 2px #25272a;
+ 	
+
+ 	}
+ 	
+ 	
+ 		
+ 	.card2 h3 /*for whats new heading*/
+ 	{ margin:0;
+ 		text-align: center;
+ 		color:#ffffff;
+ 		background-color: #4b91f6;
+
+ 		line-height: 3;
+ 		width: 100%;
+ 		box-shadow: 1px 1px 2px 2px #25272a;
+ 	}
+
+ 	
+ 	
+ 	#happening /*for whats happening */
+ 	{
+ 		background-color: #57cbff;
+ 		height:350px;
+ 		color:#ffffff;
+ 		text-align: center;
+ 		margin-bottom: 80px;
+ 	}
+ 	 #location/*for locate us*/
+ 	{
+ 		background-color:#417faa;
+ 		max-height:300px;
+ 		color:#ffffff;
+ 		text-align: center;
+ 		margin-bottom:200px;
+
+ 	}
+ 	#about /*for about us block*/
+ 	{
+background-color:#f0433a;
+ 		max-height:400px;
+ 		color:#ffffff;
+ 		text-align: center;
+ 		margin-bottom: 80px;
+ 	}
+ 	#about p {
+ 	       font-family:'Monteserrat',sans-serif,helvetica;
+ 	       font-style: italic;
+ 		line-height:2;
+ text-align: center;
+ 	}
+
+#event
+{ height: 250px;
+	width:1080px;
+	margin-top: 5px;
+
+}
+#map{
+	margin-top: 40px;
+		box-shadow: 2px 2px 2px 3px #191718;
+
+	}
+
+	#abtus{
+	
+		box-shadow: 2px 2px 2px 3px #191718;
+		width: 816px;
+		height: 400px;
+	}
